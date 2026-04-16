@@ -34,10 +34,10 @@ Write a C# program that prints:
 - Your Country  
 
 Example output:
-Name: John Doe
-Age: 20
-University: XYZ Institute
-Country: Sri Lanka
+* Name: John Doe
+* Age: 20
+* University: XYZ Institute
+* Country: Sri Lanka
 
 
 ---
@@ -55,12 +55,12 @@ Write a program that prints:
 
 Write a program that prints a structured output like this:
 =================================
-STUDENT PROFILE
-Name : Your Name
-Age : Your Age
-Country: Your Country
-Role : C# Beginner
-Welcome to Software Engineering!
+* STUDENT PROFILE
+* Name : Your Name
+* Age : Your Age
+* Country: Your Country
+* Role : C# Beginner
+* Welcome to Software Engineering!
 
 
 ---
