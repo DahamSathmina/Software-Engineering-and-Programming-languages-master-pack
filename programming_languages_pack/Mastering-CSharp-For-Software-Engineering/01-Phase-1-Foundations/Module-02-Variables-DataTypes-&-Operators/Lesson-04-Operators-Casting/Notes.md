@@ -82,7 +82,7 @@ Used to combine conditions.
 | Operator | Meaning |   |    |
 | -------- | ------- | - | -- |
 | &&       | AND     |   |    |
-|          |         |   | OR |
+| ||       |         |   | OR |
 | !        | NOT     |   |    |
 
 
