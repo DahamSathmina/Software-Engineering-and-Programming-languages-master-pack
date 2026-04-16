@@ -79,11 +79,12 @@ Console.WriteLine(x < y);
 ```
 # 3.3 Logical Operators
 Used to combine conditions.
-| Operator | Meaning |  
-| -------- | ------- | 
-| &&       | AND     | 
-| ||       | OR      |   
-| !        | NOT     |  
+| Operator | Meaning |   |    |
+| -------- | ------- | - | -- |
+| &&       | AND     |   |    |
+|          |         |   | OR |
+| !        | NOT     |   |    |
+
 
 Example
 ```csharp id="arith03"
