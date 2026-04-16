@@ -143,10 +143,10 @@ MyFirstApp/
 
 When you run a C# program:
 
-Code is written in .cs file
-Compiler converts it to Intermediate Language (IL)
-CLR executes the IL code
-Output is displayed
+- Code is written in .cs file
+- Compiler converts it to Intermediate Language (IL)
+- CLR executes the IL code
+- Output is displayed
 # 11. Example Program
 ```bash
 using System;
@@ -163,8 +163,8 @@ class Program
 
 After this lesson, you should understand:
 
-What .NET is
-Why .NET is required for C#
-How .NET executes applications
-How to install .NET SDK
-How to create and run a console application
+- What .NET is
+- Why .NET is required for C#
+- How .NET executes applications
+- How to install .NET SDK
+- How to create and run a console application
