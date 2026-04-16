@@ -61,8 +61,8 @@ During installation:
 
 - Choose "Database Engine Services"
 - Select authentication mode:
-      -  Windows Authentication (recommended)
-      -  Mixed Mode (optional)
+    -  Windows Authentication (recommended)
+    -  Mixed Mode (optional)
 
 If using Mixed Mode, save your login credentials.
 
@@ -154,16 +154,20 @@ This helps keep your work organized and professional.
 
 # System Requirements
 **Minimum Requirements**
+```bash
 8 GB RAM
 Intel i3 / Ryzen 5 or above
 50 GB free storage
 Windows 10 / Windows 11
+```
 **Recommended Requirements**
+```bash
 16 GB RAM
 SSD storage
 Windows 11
-Installation Checklist
+```
 
+**Installation Checklist**
 Before starting the course, make sure you installed:
 ```bash
 Visual Studio 2022
