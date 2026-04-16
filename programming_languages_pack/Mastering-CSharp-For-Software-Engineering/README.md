@@ -9,7 +9,7 @@ This repository contains **all lesson notes, source code, assignments, mini proj
 - **Course Name:** Mastering C# for Software Engineering  
 - **Level:** Beginner → Advanced → Professional  
 - **Technology Stack:** C#, .NET 8, SQL Server, EF Core, ASP.NET Core, Web API  
-- **Platform:** YouTube + GitHub Learning  
+- **Platform:** GitHub Learning  
 - **Instructor:** Daham Sathmina (ODSDLABS)
 
 ---
