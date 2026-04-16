@@ -1,6 +1,14 @@
-# 📌 Mastering C# Course Roadmap
+# 📌 Mastering C# for Software Engineering (Beginner to Professional)
+This repository is a complete structured roadmap designed to take you from **absolute beginner** to **professional C#/.NET software developer**.
 
-Mastering-CSharp-For-Software-Engineering-Course/
+All course content is organized into **phases, modules, lessons, notes, assignments, and source code** to ensure clean learning and professional project organization.
+
+---
+
+# 📂 Course Structure
+
+```txt
+Mastering-CSharp-For-Software-Engineering/
 │
 ├── README.md
 ├── LICENSE
@@ -273,15 +281,13 @@ Mastering-CSharp-For-Software-Engineering-Course/
 │   └── FinalProject-POS-Advanced/
 │
 ├── 08-Interview-Preparation/
-    ├── CSharp-Interview-Questions.md
-    ├── DotNet-Interview-Questions.md
-    ├── SQL-Interview-Questions.md
-    ├── OOP-SOLID-Questions.md
-    ├── Coding-Challenges/
-    └── Resume-Portfolio-Guide.md
+│   ├── CSharp-Interview-Questions.md
+│   ├── DotNet-Interview-Questions.md
+│   ├── SQL-Interview-Questions.md
+│   ├── OOP-SOLID-Questions.md
+│   ├── Coding-Challenges/
+│   └── Resume-Portfolio-Guide.md
 
-
-```bash
- Lecturer: Daham Sathmina
- Organization: ODSDLABS
- ```
+``bash
+Lecture: Daham Sathmina (ODSDLABS)
+```
