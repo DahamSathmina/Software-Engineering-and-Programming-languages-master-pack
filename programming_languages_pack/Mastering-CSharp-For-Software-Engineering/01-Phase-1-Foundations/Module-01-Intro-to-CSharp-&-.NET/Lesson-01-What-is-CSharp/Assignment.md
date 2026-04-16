@@ -34,10 +34,10 @@ Write a C# program that prints:
 - Your Country  
 
 Example output:
-Name: John Doe
-Age: 20
-University: XYZ Institute
-Country: Sri Lanka
+* Name: John Doe
+* Age: 20
+* University: XYZ Institute
+* Country: Sri Lanka
 
 
 ---
