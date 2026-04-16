@@ -10,7 +10,7 @@ This repository contains **all lesson notes, source code, assignments, mini proj
 - **Level:** Beginner → Advanced → Professional  
 - **Technology Stack:** C#, .NET 8, SQL Server, EF Core, ASP.NET Core, Web API  
 - **Platform:** GitHub Learning  
-- **Instructor:** Daham Sathmina (ODSDLABS)
+- **Lecturer:** Daham Sathmina (ODSDLABS)
 
 ---
 
