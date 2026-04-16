@@ -43,3 +43,8 @@
 - Hospital Management System
 - E-Commerce System
 - POS Advanced System
+
+```bash
+ Lecturer: Daham Sathmina
+ Organization: ODSDLABS
+ ```

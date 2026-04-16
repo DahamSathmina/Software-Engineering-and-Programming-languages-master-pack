@@ -319,5 +319,7 @@ To become a professional developer:
 ---
 
 # End of Weekly Plan
-Lecturer: Daham Sathmina  
-Organization: ODSDLABS
+```bash
+ Lecturer: Daham Sathmina
+ Organization: ODSDLABS
+ ```

@@ -183,3 +183,8 @@ Optional:
 Visual Studio Code
 Docker
 ```
+
+```bash
+ Lecturer: Daham Sathmina
+ Organization: ODSDLABS
+ ```
