@@ -48,8 +48,10 @@ static double Add(double a, double b)
 }
 ```
 # 2.4 Example Usage
+```bash
 Console.WriteLine(Add(5, 10));
 Console.WriteLine(Add(5.5, 2.5));
+```
 # 2.5 Rules of Overloading
 - Method name must be same
 - Parameters must be different
@@ -119,7 +121,7 @@ Overloading Example: Calculator
 static int Add(int a, int b) => a + b;
 static double Add(double a, double b) => a + b;
 ```
-**Recursion Example: Countdown**
+Recursion Example: Countdown
 ```bash
 static void Count(int n)
 {
