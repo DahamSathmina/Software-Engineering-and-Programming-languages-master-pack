@@ -33,7 +33,7 @@ dataType variableName = value;
 ```bash
 int age = 20;
 string name = "Daham";
-double salary = 50000.50;
+double salary = 500000.50;
 bool isActive = true;
 ```
 
